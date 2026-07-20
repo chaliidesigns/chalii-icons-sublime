@@ -10,9 +10,8 @@ Makinda design system.
 3. Choose **Makinda Icons**
 4. Restart Sublime Text
 
-Icons are bound to TextMate scopes (e.g. `source.js`, `source.python`) via
-`.tmPreferences` files and apply automatically to matching files in the
-sidebar and tabs.
+Icons are bound to TextMate scopes and file patterns via `.tmPreferences` files
+and apply automatically to matching files in the sidebar and tabs.
 
 ## Manual install
 
@@ -29,8 +28,26 @@ Then restart Sublime.
 
 - `icons/<name>.png` / `<name>@2x.png` / `<name>@3x.png` — 16 / 32 / 48 px
   raster variants. Sublime picks the right size for the current display scale.
-- `preferences/<name>.tmPreferences` — binds a TextMate scope to the icon at
-  `Packages/Makinda Icons/icons/<name>`.
+- `preferences/<name>.tmPreferences` — binds a TextMate scope and/or file
+  patterns to the icon at `Packages/Makinda Icons/icons/<name>`.
+
+## Icon coverage (40 bindings, 55 icons)
+
+| Category | Icons |
+|----------|-------|
+| Web | html, css, js, ts, vue, svelte, astro |
+| Backend | python, ruby, rust, go, java, php, c, cpp |
+| Data | json, yaml, xml, csv, database |
+| Docs | markdown, txt, pdf, doc, ppt |
+| Shell | command-line (bash/zsh/sh) |
+| Config | config (ini/env), code-square (Makefile/Dockerfile/Nix) |
+| Media | image (png/jpg/ico…), gif, svg, audio, video, font |
+| Archive | archive (zip/tar/gz/rar…) |
+| Dev | figma, github, lock, license |
+
+> **Folder icons** (folder, folder-code, folder-audio, etc.) are included as
+> PNG assets but require a Sublime Text theme to display — they are not
+> activated by this package alone.
 
 ## Limitations
 
@@ -41,4 +58,4 @@ Then restart Sublime.
 
 ## License
 
-MIT — see [LICENSE.md](LICENSE.md).
+MIT — see [LICENSE](LICENSE).
