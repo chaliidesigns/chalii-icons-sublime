@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda js</string>
+    <string>Chalii js</string>
     <key>scope</key>
     <string>source.js, source.jsx</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_js</string>
+        <string>Packages/Chalii Icons/icons/js</string>
     </dict>
     <key>uuid</key>
     <string>B3942DFB-5BC0-5B44-95B5-891CE8D00005</string>

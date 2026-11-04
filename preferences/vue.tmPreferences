@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda vue</string>
+    <string>Chalii vue</string>
     <key>scope</key>
     <string>source.vue</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_vue</string>
+        <string>Packages/Chalii Icons/icons/vue</string>
     </dict>
     <key>uuid</key>
     <string>93078B1D-4B01-5BBD-970D-00C673184D7A</string>

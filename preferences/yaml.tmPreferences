@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda yaml</string>
+    <string>Chalii yaml</string>
     <key>scope</key>
     <string>source.yaml, source.toml</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_yaml</string>
+        <string>Packages/Chalii Icons/icons/yaml</string>
     </dict>
     <key>uuid</key>
     <string>6E8C6DAD-B398-5E30-90AC-71282B5FEA49</string>

@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda astro</string>
+    <string>Chalii astro</string>
     <key>scope</key>
     <string>source.astro</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_astro</string>
+        <string>Packages/Chalii Icons/icons/astro</string>
     </dict>
     <key>uuid</key>
     <string>E35D4B60-D857-5D56-9F14-8A8F9CC55DCF</string>

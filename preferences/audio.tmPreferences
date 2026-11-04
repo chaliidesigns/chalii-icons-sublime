@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda audio</string>
+    <string>Chalii audio</string>
     <key>file_patterns</key>
     <array>
         <string>*.mp3</string>

@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda database</string>
+    <string>Chalii database</string>
     <key>scope</key>
     <string>source.sql</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_database</string>
+        <string>Packages/Chalii Icons/icons/database</string>
     </dict>
     <key>uuid</key>
     <string>18B17B5A-9F11-54FA-9729-73FC4ADFECBB</string>

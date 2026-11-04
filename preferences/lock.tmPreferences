@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda lock</string>
+    <string>Chalii lock</string>
     <key>file_patterns</key>
     <array>
         <string>*.lock</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda image</string>
+    <string>Chalii image</string>
     <key>file_patterns</key>
     <array>
         <string>*.png</string>

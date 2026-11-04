@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda c</string>
+    <string>Chalii c</string>
     <key>scope</key>
     <string>source.c</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_c</string>
+        <string>Packages/Chalii Icons/icons/c</string>
     </dict>
     <key>uuid</key>
     <string>9425AB7D-EDF7-59C4-93AC-4DFB5BD5B385</string>

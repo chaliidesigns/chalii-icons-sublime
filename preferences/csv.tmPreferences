@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda csv</string>
+    <string>Chalii csv</string>
     <key>scope</key>
     <string>text.plain.csv</string>
     <key>file_patterns</key>

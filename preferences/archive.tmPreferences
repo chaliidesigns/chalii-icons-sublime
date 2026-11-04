@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda archive</string>
+    <string>Chalii archive</string>
     <key>file_patterns</key>
     <array>
         <string>*.zip</string>

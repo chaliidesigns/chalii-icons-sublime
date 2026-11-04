@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda ruby</string>
+    <string>Chalii ruby</string>
     <key>scope</key>
     <string>source.ruby</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_ruby</string>
+        <string>Packages/Chalii Icons/icons/ruby</string>
     </dict>
     <key>uuid</key>
     <string>504896E9-7AE1-515F-9CF9-EABBCD6565B4</string>

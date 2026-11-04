@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda python</string>
+    <string>Chalii python</string>
     <key>scope</key>
     <string>source.python</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_python</string>
+        <string>Packages/Chalii Icons/icons/python</string>
     </dict>
     <key>uuid</key>
     <string>4CC6BA0F-CB3D-5359-9321-A2D6596B384E</string>

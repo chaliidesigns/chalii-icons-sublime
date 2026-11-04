@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda cpp</string>
+    <string>Chalii cpp</string>
     <key>scope</key>
     <string>source.c++</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_cpp</string>
+        <string>Packages/Chalii Icons/icons/cpp</string>
     </dict>
     <key>uuid</key>
     <string>22CE851D-0B8C-5844-9164-975A9FB09705</string>

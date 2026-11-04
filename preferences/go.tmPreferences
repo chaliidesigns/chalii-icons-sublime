@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda go</string>
+    <string>Chalii go</string>
     <key>scope</key>
     <string>source.go</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_go</string>
+        <string>Packages/Chalii Icons/icons/go</string>
     </dict>
     <key>uuid</key>
     <string>B39E31FB-5BC9-5695-9F15-A41CF7032742</string>

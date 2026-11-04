@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda xml</string>
+    <string>Chalii xml</string>
     <key>scope</key>
     <string>text.xml, text.xml.xsl</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_xml</string>
+        <string>Packages/Chalii Icons/icons/xml</string>
     </dict>
     <key>uuid</key>
     <string>81112C1D-40A6-5AAC-9658-84B4DA5A50FD</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda video</string>
+    <string>Chalii video</string>
     <key>file_patterns</key>
     <array>
         <string>*.mp4</string>

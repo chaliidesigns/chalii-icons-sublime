@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda json</string>
+    <string>Chalii json</string>
     <key>scope</key>
     <string>source.json</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_json</string>
+        <string>Packages/Chalii Icons/icons/json</string>
     </dict>
     <key>uuid</key>
     <string>22AC871F-98C3-55CD-9EAF-88B0943C936A</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda font</string>
+    <string>Chalii font</string>
     <key>file_patterns</key>
     <array>
         <string>*.ttf</string>

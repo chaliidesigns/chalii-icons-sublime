@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda css</string>
+    <string>Chalii css</string>
     <key>scope</key>
     <string>source.css, source.scss, source.sass, source.css.less, source.stylus, source.css.postcss</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_css</string>
+        <string>Packages/Chalii Icons/icons/css</string>
     </dict>
     <key>uuid</key>
     <string>22D8781D-0B94-56B2-9A8A-AA5AADB23863</string>

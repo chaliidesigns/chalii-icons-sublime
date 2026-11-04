@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda markdown</string>
+    <string>Chalii markdown</string>
     <key>scope</key>
     <string>text.html.markdown, text.html.markdown.mdx</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_markdown</string>
+        <string>Packages/Chalii Icons/icons/markdown</string>
     </dict>
     <key>uuid</key>
     <string>EBFF211A-D317-59D2-99DF-3194B0ADD483</string>

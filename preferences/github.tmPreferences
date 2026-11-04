@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda github</string>
+    <string>Chalii github</string>
     <key>file_patterns</key>
     <array>
         <string>CODEOWNERS</string>

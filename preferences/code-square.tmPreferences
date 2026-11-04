@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda code-square</string>
+    <string>Chalii code-square</string>
     <key>scope</key>
     <string>source.makefile, source.dockerfile, source.nix</string>
     <key>settings</key>

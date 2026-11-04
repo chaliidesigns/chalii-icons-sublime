@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda svelte</string>
+    <string>Chalii svelte</string>
     <key>scope</key>
     <string>source.svelte</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_svelte</string>
+        <string>Packages/Chalii Icons/icons/svelte</string>
     </dict>
     <key>uuid</key>
     <string>E83D2BC1-28AA-5B2C-9A6C-683819AF1A7D</string>

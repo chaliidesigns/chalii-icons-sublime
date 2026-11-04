@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda doc</string>
+    <string>Chalii doc</string>
     <key>file_patterns</key>
     <array>
         <string>*.doc</string>

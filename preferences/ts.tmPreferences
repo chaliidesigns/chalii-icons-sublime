@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Makinda ts</string>
+    <string>Chalii ts</string>
     <key>scope</key>
     <string>source.ts, source.tsx</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_ts</string>
+        <string>Packages/Chalii Icons/icons/ts</string>
     </dict>
     <key>uuid</key>
     <string>B3DF15FB-5C00-5DF6-94C0-2F1D552760EF</string>
