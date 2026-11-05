@@ -94,7 +94,7 @@ Releases are mirrored into this repo and tagged by [`scripts/sync-sublime-repo.s
 
 ## 📄 License
 
-See [LICENSE](LICENSE) - the package code is © Makinda Jackson, all rights reserved until a permissive licence is chosen; the icon artwork is derived from Hugeicons Pro under the author's licence and is **not** redistributable outside this package.
+See [LICENSE](LICENSE) - the package code is © Makinda Jackson, all rights reserved until a permissive licence is chosen; the icon artwork is © Makinda Jackson and is **not** redistributable outside this package.
 
 ## 👤 Author
 
